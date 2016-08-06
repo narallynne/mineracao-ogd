@@ -136,7 +136,7 @@ def isBrazil(location):
 
 
 
-ACCESS_TOKEN = '8d0cd2b4a8ef40967412d0895d116cf9d6f53aee'
+ACCESS_TOKEN = 'Your access token'
 client = Github(ACCESS_TOKEN, per_page=100)
 #print client.get_rate_limit().raw_data["resources"]["core"]["remaining"]
 system("cls")# -*- coding: utf-8 -*-
