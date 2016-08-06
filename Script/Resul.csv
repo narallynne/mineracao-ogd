@@ -1,0 +1,42 @@
+Login;Name;Email;Location;Followers;Following;Organization;Contribuitions;Total_Contribuitions;Last Events(for 3 months) 
+newtoncalegari;Newton Calegari;newtoncalegari@gmail.com;Sao Paulo, SP, Brazil;18;19;['dadosgovbr'];[('dadosgovbr/dwbp', 299)];299;
+chris-redfield;Christian;christianmoryah@gmail.com;Brazil;20;18;['dadosgovbr'];[('dadosgovbr/open-data-tech-review', 3), ('dadosgovbr/processo-participacao-social-inda', 4), ('dadosgovbr/course-opendata-license', 10), ('dadosgovbr/open-up-with-simplicity', 64), ('dadosgovbr/kit', 151), ('dadosgovbr/mapaoscs', 2), ('dadosgovbr/ckanext-dadosgovbr', 4)];238;
+ltartari;Leo Tartari;ltartari@gmail.com;Porto Alegre, Brazil;113;139;['okfn-brasil', 'dadosgovbr'];[('okfn-brasil/orcamento.inesc.org.br', 185), ('okfn-brasil/mosaico', 37), ('dadosgovbr/government.github.com', 2)];224;
+dukex;Duke;srdukex@gmail.com;São Paulo, Brazil ;153;20;['okfn-brasil', 'dadosgovbr'];[('okfn-brasil/reactive_scraper', 102), ('okfn-brasil/GetMyGist', 16), ('okfn-brasil/GetMyGist-Server', 10), ('dadosgovbr/processo-participacao-social-inda', 1)];129;
+ppKrauss;Peter;ppkrauss;Brasil;6;1;['okfn-brasil'];[('okfn-brasil/ISSN-L-Resolver', 36), ('okfn-brasil/getlex', 12), ('okfn-brasil/mapa-do-cep', 1), ('okfn-brasil/opendefinition', 9), ('okfn-brasil/language-codes', 3), ('okfn-brasil/country-geoinfo', 13), ('okfn-brasil/cuidando2-doc', 44)];118;"(Date= 2016-06-04; type= IssueCommentEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-06-04; type= IssuesEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-06-01; type= IssueCommentEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-06-01; type= ForkEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-06-01; type= IssueCommentEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-06-01; type= IssueCommentEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-05-16; type= IssuesEvent; repo= dadosgovbr/catalogos-dados-brasil) ; (Date= 2016-05-15; type= IssueCommentEvent; repo= dadosgovbr/catalogos-dados-brasil) ; "
+thiagotns;Thiago Nunes;thiagonunes.tns@gmail.com;São Luís, MA;1;4;['LabPi'];[('LabPi/fiscal-cidadao', 117)];117;
+thiagorondon;Thiago Berlitz Rondon;thiago@aware.com.br;São Paulo;76;22;['okfn-brasil'];[('okfn-brasil/POFOMD', 77)];77;
+yaso;Yaso;yasodara.cordova@gmail.com;São Paulo, Brasil;59;58;['dadosgovbr'];[('dadosgovbr/processo-participacao-social-inda', 1), ('dadosgovbr/dwbp', 59)];60;
+alexandre;Alexandre;0x41e@protonmail.ch;São Paulo, Brasil;62;69;['okfn-brasil'];[('okfn-brasil/viralata', 3), ('okfn-brasil/tagarela', 1), ('okfn-brasil/esiclivre', 54)];58;
+lpirola;Lucas Pirola;lucaspirola@gmail.com;São Paulo, Brazil;66;93;['okfn-brasil'];[('okfn-brasil/gastos_abertos', 2), ('okfn-brasil/gastos_abertos_interface_module_example', 16), ('okfn-brasil/gastos_abertos_website', 28)];46;
+agnoldo;Arnaldo Gomes;agnoldo@gmail.com;Belo Horizonte, Brasil;0;0;['LabPi'];[('LabPi/soufiscal', 37)];37;
+govijuan;Juan Carlos Coral;govindasd@gmail.com;São Paulo - Brasil;0;0;['okfn-brasil'];[('okfn-brasil/gastos_abertos_website', 13), ('okfn-brasil/gastos_abertos_ckan', 23), ('okfn-brasil/gastosabertos-wordpress-tema', 1)];37;"(Date= 2016-07-05; type= PushEvent; repo= okfn-brasil/gastosabertos-wordpress-tema) ; "
+phlimaoliveira;Paulo Henrique Lima Oliveira;ph.lima.tecnico@gmail.com;Jataí-Goiás, Brazil;5;2;['LabPi'];[('LabPi/fiscalizabr-android', 35)];35;
+thiagogsr;Thiago Guimarães;thiagogsr@gmail.com;Aracaju/SE - Brasil;22;48;['LabPi'];[('LabPi/brasilsincero-android', 16), ('LabPi/brasilsincero-ios', 4), ('LabPi/brasilsincero', 4)];24;
+siga0984;Júlio Wittwer;siga0984@gmail.com;São Paulo / Brasil;22;0;['LabPi'];[('LabPi/TodosDeOlho_PHP', 23)];23;
+jeffersonrpn;Jefferson Neves;jefferson.rpn@gmail.com;Campina Grande, Paraíba, Brasil;6;8;['LabPi'];[('LabPi/NaEmendaDeputado', 22)];22;
+kellyton;Kellyton Brito;kellyton.brito@gmail.com;Brasil;6;1;['LabPi'];[('LabPi/olhonoorcamento', 21)];21;
+1fabiosoares;Fabio Soares;fabioars@live.com;Brasil;8;13;['LabPi'];[('LabPi/infocode-client', 11), ('LabPi/infocode-server', 10)];21;
+joao-henrique;João Henrique Pereira de Almeida ;joaohenrique.p.almeida@gmail.com;Brasilia ;32;92;['LabPi'];[('LabPi/QuantoVale-App', 10), ('LabPi/QuantoVale-Server', 9)];19;
+gabrielssilva;Gabriel Silva;gabriel93.silva@gmail.com;Brazil;9;5;['LabPi'];[('LabPi/Fiscalize-Android', 16), ('LabPi/Fiscalize-iOS', 3)];19;
+matheusherique;Matheus Costa;matheus.bionicle@gmail.com;Brazil;8;17;['LabPi'];[('LabPi/QuantoVale-App', 18)];18;
+americoneto1;Américo Neto;americoneto1@gmail.com;São Paulo / Santos - BR;11;10;['okfn-brasil'];[('okfn-brasil/hackatona-vaimudar', 15)];15;
+luizaugustomm;Luiz Augusto;luizaugustomm@gmail.com;Campina Grande - PB;6;4;['LabPi'];[('LabPi/diferentonas-client', 14)];14;
+iacapuca;Pedro Luiz Paes Barreto dos Santos;iacapuca@gmail.com;Brazil;5;5;['LabPi'];[('LabPi/deOlho-nos-Convenios', 12)];12;
+eduardobreno;Eduardo Breno;eduardobreno@msn.com;Manaus, Amazonas, Brasil;1;0;['LabPi'];[('LabPi/grilo', 12)];12;
+ricardoas;Ricardo Araújo;ricoaraujosantos@gmail.com;Campina Grande - Paraíba - Brazil;12;8;['LabPi'];[('LabPi/diferentonas-server', 11)];11;
+warteruzannan;Warteruzannan Soyer Cunha;warteruzannan@gmail.com;Jataí, GO;0;0;['LabPi'];[('LabPi/fiscalizabr-ios', 8)];8;
+gardin1992;João Antonio Gardin Vieira;gardin1992@gmail.com;Brazil, Lutécia - Sp;5;12;['LabPi'];[('LabPi/miningJus', 4)];4;
+netojoaobatista;João Batista Neto;neto.joaobatista@gmail.com;Franca/SP - Brazil;577;19;['okfn-brasil'];[('okfn-brasil/consulta_wp', 4)];4;
+pdelfino;Pedro Delfino;p.delfino01@gmail.com;Belo Horizonte, Brazil;0;0;['okfn-brasil'];[('okfn-brasil/Projeto-livre', 4)];4;
+francisceioseph;Francisco José Araújo Chaves Souza;francisceioseph@gmail.com;Fortaleza, Ceará, Brasil;16;15;['LabPi'];[('LabPi/swift-radar-politico', 4)];4;
+0tho;Marcelo Lopes Lotufo;marcelo.lopes.lotufo@gmail.com;Brazil;10;13;['LabPi'];[('LabPi/Impactar', 3)];3;
+orlandoburli;Orlando Burli Junior;orlando.burli@gmail.com;Cuiaba - MT;0;1;['LabPi'];[('LabPi/CidadaoPresente', 3)];3;
+MichelAquino;Michel Aquino;michel.has@gmail.com;Rio de Janeiro;9;45;['LabPi'];[('LabPi/BrasilTransparente', 2)];2;
+elkingtowa;Joshua Elkington;elkingtowa@gmail.com;Cambridge, MA;6;0;['okfn-brasil'];[('okfn-brasil/euvoto', 2)];2;
+paulogeyer;Paulo Geyer;paulogeyer@gmail.com;Florianópolis - SC - BRA;15;16;['okfn-brasil'];[('okfn-brasil/queremossaber', 1)];1;
+giulianojordao;Giuliano Jordao;giulianojordao@gmail.com;Foz do Iguaçu - PR - Brasil;0;5;['LabPi'];[('LabPi/EuFIscalizo', 1)];1;
+sevdouglas;Douglas Severo;douglas.amengual@gmail.com;Brazil;0;0;['LabPi'];[('LabPi/JogoLimpo', 1)];1;
+pmarkun;Pedro Markun;pedro@markun.com.br;Brazil;118;2;['dadosgovbr'];[('dadosgovbr/processo-participacao-social-inda', 1)];1;
+guilhermecomum;Guilherme Guerra;guerrinha@comum.org;Porto Alegre, RS - Brasil;26;42;['dadosgovbr'];[('dadosgovbr/government.github.com', 1)];1;
+guiruiz;Guilherme Ruiz;guiiruiz@hotmail.com;São Paulo, SP, Brasil.;6;8;['okfn-brasil'];[('okfn-brasil/euvoto', 1)];1;
